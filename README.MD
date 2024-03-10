@@ -1,5 +1,8 @@
 # string.h-Implementation
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
 The `string.h-Implementation` project is a C library developed to mimic the functionality of the standard C library's `string.h`, with additional features inspired by the C# String class. This library is aimed at providing a comprehensive suite of string manipulation functions, including memory operations, string comparisons, concatenations, and more advanced string processing functionalities. It adheres to the C11 standard using the gcc compiler and is designed following the principles of structured programming without using deprecated features.
 
 ## Features
